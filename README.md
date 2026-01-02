@@ -66,6 +66,4 @@ A comprehensive web application for a professional WordPress fixes and digital m
 - PhonePe account (optional)
 - Google Gemini API key (optional)
 
-### Setup Steps
-
-1. **Clone the repository**
+## Developer Rahul Kumar. 
